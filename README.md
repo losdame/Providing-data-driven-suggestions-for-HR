@@ -14,7 +14,7 @@ The dataset provided by the Human Resources Department of [Salifort Motors](http
 
 *Note: The bar chart below illustrates the distribution of employees who left versus those who stayed.*
 
-![image-3.png](attachment:image-3.png)
+![image](https://github.com/user-attachments/assets/fd2f1587-d7c1-4829-9ad8-8ea96dd308ac)
 
 The data was cleaned by removing redundant columns and converting features to the appropriate data types.
 
@@ -29,7 +29,7 @@ A Random Forest model with 100 decision trees was employed to determine feature 
 
 *Note: The plot below shows that the last evaluation, number of projects, and tenure were identified as the top three most important factors in predicting employee departures.*
 
-![image-2.png](attachment:image-2.png)
+![image-2.png](https://github.com/losdame/Providing-data-driven-suggestions-for-HR/blob/main/Left%20feartures.png?raw=true)
 
 ## Conclusion
 
