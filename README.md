@@ -10,7 +10,7 @@ The HR department at Salifort Motors aims to improve employee satisfaction and r
 
 ## Data Understanding
 
-The dataset provided by the Human Resources Department of [Salifort Motors](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) contains approximately 15,000 records and 10 features. These features include satisfaction level, number of projects, promotions over the last 5 years, and whether the employee left the company. 
+The dataset provided by the Human Resources Department of [Salifort Motors](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv) contains approximately 15,000 records and 10 features. These features include satisfaction level, number of projects, promotions over the last 5 years, and whether the employee left the company. 
 
 *Note: The bar chart below illustrates the distribution of employees who left versus those who stayed.*
 
